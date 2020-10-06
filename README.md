@@ -26,4 +26,7 @@ As yet, we've had no need for any configuration. Raise an issue if there's anyth
 
 ## Misc
 
-Thanks to the creator of https://github.com/jicong/kong-aliyun-http-filter off of which this plugin was created.
+Thanks to the creator of https://github.com/jicong/kong-aliyun-http-filter off of which this plugin was created.  
+
+  
+Pack: luarocks pack kong-plugin-myPlugin 0.1.0-1
