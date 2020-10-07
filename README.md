@@ -1,4 +1,4 @@
-# kong-http-to-https-redirect
+# kong-plugin-http-to-https-redirect
 301 redirect from http to https
 
 ## Installation
