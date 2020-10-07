@@ -1,5 +1,5 @@
-package = "kong-http-to-https-redirect"
-version = "0.13.1-0"
+package = "kong-plugin-http-to-https-redirect"
+version = "1.0-0"
 source = {
     url = "git://github.com/HappyValleyIO/kong-http-to-https-redirect",
     branch = "master"
