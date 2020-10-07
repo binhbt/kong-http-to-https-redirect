@@ -13,6 +13,7 @@ description = {
     license = "MIT"
 }
 dependencies = {
+  "lua ~> 5.1"
 }
 build = {
     type = "builtin",
