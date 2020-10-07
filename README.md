@@ -30,7 +30,7 @@ Thanks to the creator of https://github.com/jicong/kong-aliyun-http-filter off o
 
 
 Build: sudo luarocks make  
-Pack: luarocks pack kong-plugin-http-to-https-redirect 1.0-0
+Pack: luarocks pack kong-plugin-http-to-https-redirect 1.0-0  
 
 #Install to Kong docker  
 `FROM kong:1.4.0-ubuntu  
